@@ -1,6 +1,8 @@
 name: "Empirical Project"
 navbar:
-  title:"Empirical Project"
+  title: "Empirical Project"
   left:
-  - text: "Sleep Project"
-    href: sleeping.html
+  - text: "Project"
+    href: index.html
+  - text: "About"
+    href: about.html
