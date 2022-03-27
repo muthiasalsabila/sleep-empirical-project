@@ -1,4 +1,5 @@
 name: "Empirical Project"
+output_dir: "docs"
 navbar:
   title: "Empirical Project"
   left:
@@ -6,3 +7,6 @@ navbar:
     href: index.html
   - text: "About"
     href: about.html
+output:
+  html_document:
+    theme: cerulean
