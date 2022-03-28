@@ -5,8 +5,5 @@ navbar:
   left:
   - text: "Project"
     href: index.html
-  - text: "About"
-    href: about.html
-output:
-  html_document:
-    theme: cosmo
+site: bookdown::bookdown_site
+output: html_document
