@@ -3,7 +3,7 @@ title: "Pengaruh Upah Per Jam Terhadap Total Jam Kerja Pekerja"
 author: "Apriza Ananda P, Chairini Nugraharti, Muthia Salsabila, Priscilia Atrika M, Ratih Dwi C"
 output: 
   html_document:
-    theme: cerulean
+    theme: darkly
     toc: TRUE
     toc_depth: 3
     toc_float: yes

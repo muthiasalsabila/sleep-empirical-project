@@ -2,6 +2,6 @@ name: "Empirical Project"
 navbar:
   title: "Empirical Project"
   left:
-  - text: "Project"
+  - text: "Sleep"
     href: index.html
-output_dir: "docs"
+
