@@ -1,9 +1,7 @@
 name: "Empirical Project"
-output_dir: "docs"
 navbar:
   title: "Empirical Project"
   left:
   - text: "Project"
     href: index.html
-site: bookdown::bookdown_site
-output: html_document
+output_dir: "docs"
